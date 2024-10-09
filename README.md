@@ -1,9 +1,8 @@
 # Hi, I'm Sanan Taghiyev 👋
 
 ## 🚀 About Me
-Hello! I'm Sanan, a 25-year-old passionate Web Developer. My primary focus is on creating dynamic and efficient web applications using a variety of modern technologies. I'm always excited to work on challenging projects that push the boundaries of my skills. Whether it's backend development with **Python Django** or **PHP Laravel**, or front-end magic with **JavaScript**, I thrive on solving complex problems with creative solutions. 
+Hello! I'm Sanan, a 25-year-old passionate Web Developer. My primary focus is on creating dynamic and efficient web applications using a variety of modern technologies. I'm always excited to work on challenging projects that push the boundaries of my skills. Whether it's backend development with **Python Django** or **PHP Laravel**, or front-end magic with **JavaScript**, **HTML5**, **CSS**, I thrive on solving complex problems with creative solutions. 
 
-I also have extensive experience working with databases, both relational like **MySQL** and non-relational like **MongoDB**. Collaboration and version control are key parts of my workflow, and I’m proficient in using **GitHub** and **GitLab** for managing my projects. I'm always looking to collaborate on new and innovative projects, and I believe in the power of teamwork.
 
 ## 💻 Tools & Technologies
 
@@ -19,7 +18,13 @@ I also have extensive experience working with databases, both relational like **
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/codeigniter.png" alt="CodeIgniter" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/000000/ajax.png" alt="Ajax" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery" width="50" height="50"/>
 </p>
+
 
 ## 🤝 Find me:
 

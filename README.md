@@ -28,6 +28,9 @@ Hello! I'm Sanan, a 25-year-old passionate Web Developer. My primary focus is on
 ## 🤝 Find me:
 
 <p align="center">
+
+
+  ![GitHub Snake Animation](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg)
   <a href="https://www.linkedin.com/in/sanan-taghiyev-247138241/">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
   </a>

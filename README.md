@@ -18,9 +18,7 @@ Hello! I'm Sanan, a 25-year-old passionate Web Developer. My primary focus is on
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/codeigniter.png" alt="CodeIgniter" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://img.icons8.com/fluency/48/000000/ajax.png" alt="Ajax" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery" width="50" height="50"/>
 </p>

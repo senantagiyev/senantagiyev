@@ -1,7 +1,7 @@
 # Hi, I'm Sanan Taghiyev 👋
 
 ## 🚀 About Me
-Hello! I'm Sanan, a 25-year-old passionate Web Developer. My primary focus is on creating dynamic and efficient web applications using a variety of modern technologies. I'm always excited to work on challenging projects that push the boundaries of my skills. Whether it's backend development with **Python Django** or **PHP Laravel**, or front-end magic with **JavaScript**, **HTML5**, **CSS**, I thrive on solving complex problems with creative solutions. 
+Hello! I'm Sanan, a 25-year-old passionate Web Developer. My primary focus is on creating dynamic and efficient web applications using a variety of modern technologies. I'm always excited to work on challenging projects that push the boundaries of my skills. Whether it's backend development with **Python Django** or **PHP Laravel**, or front-end magic with **JavaScript**, **HTML5**, **CSS**, **Bootstrap5**, **TailwindCss**, **JQuery**. I thrive on solving complex problems with creative solutions. 
 
 
 ## 💻 Tools & Technologies

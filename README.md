@@ -7,14 +7,30 @@ I also have extensive experience working with databases, both relational like **
 
 ## 💻 Tools & Technologies
 
-- 🐍 **Languages & Frameworks**: Python, Django, PHP, Laravel, JavaScript
-- 🗄️ **Databases**: MySQL, NoSQL, MongoDB
-- 🗂️ **Version Control**: GitHub, GitLab
-- 🎨 **Design Tools**: Figma
-- 🌐 **Other**: HTML, CSS
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
+</p>
 
 ## 🤝 Find me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanan-taghiyev-247138241/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/senantaghi/) 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/qr/XSA36HIRRD4NK1)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanan-taghiyev-247138241/">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://www.instagram.com/senantaghi/">
+    <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram" width="50" height="50"/>
+  </a>
+  <a href="https://wa.me/qr/XSA36HIRRD4NK1">
+    <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp" width="50" height="50"/>
+  </a>
+</p>

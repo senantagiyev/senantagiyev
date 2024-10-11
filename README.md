@@ -13,6 +13,7 @@ Hello! I'm Sanan, a 25-year-old passionate Web Developer. My primary focus is on
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>

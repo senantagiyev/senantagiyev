@@ -20,6 +20,7 @@ Hello! I'm Sanan, a 25-year-old passionate Web Developer. My primary focus is on
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js" width="100"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
